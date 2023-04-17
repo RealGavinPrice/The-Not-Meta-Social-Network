@@ -1,0 +1,26 @@
+{
+    "name": "not-meta-social-network-api",
+    "version": "1.0.0",
+    "description": "This app is for creating an API for a social media network that handles large amounts of unstructured data using NoSQL",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/RealGavinPrice/The-Not-Meta-Social-Network.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/RealGavinPrice/The-Not-Meta-Social-Network/issues"
+    },
+    "homepage": "https://github.com/RealGavinPrice/The-Not-Meta-Social-Network",
+    "dependencies": {
+      "express": "^4.17.1",
+      "moment": "^2.29.1",
+      "mongoose": "^5.12.5",
+      "nodemon": "^2.0.7"
+    }
+  }
